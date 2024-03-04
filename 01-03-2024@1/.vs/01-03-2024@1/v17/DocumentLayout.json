@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EE6F58C-E56E-41FA-8C28-F8E8B5ABF8D8}|01-03-2024@1.csproj|c:\\users\\gustavo\\documents\\github\\algoritmos-computacaografica\\01-03-2024@1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EE6F58C-E56E-41FA-8C28-F8E8B5ABF8D8}|01-03-2024@1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{002A42C7-9623-420B-8D58-4F88EBDA7850}|01-03-2024@1\\01-03-2024@1.csproj|c:\\users\\gustavo\\documents\\github\\algoritmos-computacaografica\\01-03-2024@1\\01-03-2024@1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{002A42C7-9623-420B-8D58-4F88EBDA7850}|01-03-2024@1\\01-03-2024@1.csproj|solutionrelative:01-03-2024@1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9491FB-22B4-40F4-B8D3-A125D7E52E94}|UnitTestProject\\UnitTestProject.csproj|c:\\users\\gustavo\\documents\\github\\algoritmos-computacaografica\\01-03-2024@1\\unittestproject\\testesprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9491FB-22B4-40F4-B8D3-A125D7E52E94}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\testesprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestesProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\UnitTestProject\\TestesProgram.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\TestesProgram.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\UnitTestProject\\TestesProgram.cs",
+              "RelativeToolTip": "UnitTestProject\\TestesProgram.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T23:55:46.886Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABiAAAA",
+              "DocumentMoniker": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\01-03-2024@1\\Program.cs",
+              "RelativeDocumentMoniker": "01-03-2024@1\\Program.cs",
+              "ToolTip": "C:\\Users\\Gustavo\\Documents\\GitHub\\Algoritmos-ComputacaoGrafica\\01-03-2024@1\\01-03-2024@1\\Program.cs",
+              "RelativeToolTip": "01-03-2024@1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T23:42:32.138Z",
+              "WhenOpened": "2024-03-03T23:55:03.747Z",
               "EditorCaption": ""
             }
           ]
