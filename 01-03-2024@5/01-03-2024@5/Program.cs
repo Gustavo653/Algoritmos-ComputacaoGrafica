@@ -4,12 +4,10 @@
     {
         public static void Main()
         {
-            Console.WriteLine("Bem-vindo ao calculador de Movimento Circular Uniforme!");
-
-            Console.Write("Insira o raio da trajetória circular (em metros): ");
+            Console.Write("Insira o raio da trajetória circular em metros: ");
             double raio = double.Parse(Console.ReadLine());
 
-            Console.Write("Insira a velocidade angular (em rad/s): ");
+            Console.Write("Insira a velocidade angular em rad/s: ");
             double velocidadeAngular = double.Parse(Console.ReadLine());
 
             double velocidadeTangencial = CalcularVelocidadeTangencial(velocidadeAngular, raio);
@@ -31,9 +29,9 @@
         public static void ExibirResultados(double velocidadeAngular, double velocidadeTangencial, double aceleracaoCentripeta)
         {
             Console.WriteLine("\nResultados:");
-            Console.WriteLine("Velocidade Angular: " + velocidadeAngular + " rad/s");
-            Console.WriteLine("Velocidade Tangencial: " + velocidadeTangencial + " m/s");
-            Console.WriteLine("Aceleração Centrípeta: " + aceleracaoCentripeta + " m/s^2");
+            Console.WriteLine("Velocidade Angular: {0:F2} rad/s", velocidadeAngular);
+            Console.WriteLine("Velocidade Tangencial: {0:F2} m/s", velocidadeTangencial);
+            Console.WriteLine("Aceleração Centrípeta: {0:F2} m/s^2", aceleracaoCentripeta);
         }
     }
 }

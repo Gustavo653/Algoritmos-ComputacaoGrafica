@@ -6,7 +6,7 @@
         {
             const double gravidade = 9.81;
 
-            Console.Write("Digite o comprimento da corda do pêndulo (em metros): ");
+            Console.Write("Digite o comprimento da corda do pêndulo em metros: ");
             double comprimento = Convert.ToDouble(Console.ReadLine());
 
             Console.Write("Digite o ângulo inicial em graus: ");
