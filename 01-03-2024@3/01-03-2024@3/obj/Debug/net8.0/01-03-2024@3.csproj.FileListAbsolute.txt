@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\bin\Debug\net8.0\01-03-2024@3.exe
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\bin\Debug\net8.0\01-03-2024@3.deps.json
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\bin\Debug\net8.0\01-03-2024@3.runtimeconfig.json
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\bin\Debug\net8.0\01-03-2024@3.dll
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\bin\Debug\net8.0\01-03-2024@3.pdb
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.sourcelink.json
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.dll
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\refint\01-03-2024@3.dll
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.pdb
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\01-03-2024@3.genruntimeconfig.cache
+C:\Users\Gustavo\Documents\GitHub\Algoritmos-ComputacaoGrafica\01-03-2024@3\01-03-2024@3\obj\Debug\net8.0\ref\01-03-2024@3.dll
