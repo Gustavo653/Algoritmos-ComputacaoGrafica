@@ -6,7 +6,7 @@ namespace UnitTestProject
     public class TestesProgram
     {
         [Test]
-        public void TestCalcularStatusFinal()
+        public void CalcularStatusFinal()
         {
             const double gravidade = 9.81;
             double alturaQueda = 10;
@@ -22,7 +22,7 @@ namespace UnitTestProject
         }
 
         [Test]
-        public void TestCalcularStatusAtual()
+        public void CalcularStatusAtual()
         {
             const double gravidade = 9.81;
             double tempoQueda = 2.0248456731316584;
@@ -39,7 +39,7 @@ namespace UnitTestProject
         }
 
         [Test]
-        public void TestExibirStatusAtual()
+        public void ExibirStatusAtual()
         {
             double distanciaPercorrida = 49.05;
             double segundo = 2.0;
@@ -51,7 +51,7 @@ namespace UnitTestProject
             Console.SetOut(sw);
             Program.ExibirStatusAtual(distanciaPercorrida, segundo, tempoRestante, velocidadeInstantanea, distanciaPercorridaInstantanea);
             string expectedOutput = string.Format(
-                "\nSegundo: {0:F2}\r\nTempo Restante: {1:F2} segundos\r\nVelocidade Instantânea: {2:F2} m/s\r\nDistância Percorrida: {3:F2} metros\r\nDistância Restante: {4:F2} metros\r\n------------------------------------------\r\n",
+                "\nSegundo: {0:F2}\r\nTempo Restante: {1:F2} segundos\r\nVelocidade Instantï¿½nea: {2:F2} m/s\r\nDistï¿½ncia Percorrida: {3:F2} metros\r\nDistï¿½ncia Restante: {4:F2} metros\r\n------------------------------------------\r\n",
                 segundo,
                 tempoRestante,
                 velocidadeInstantanea,

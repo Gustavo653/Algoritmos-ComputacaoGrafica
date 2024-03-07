@@ -5,7 +5,7 @@ namespace UnitTestProject
     public class ProgramTest
     {
         [Test]
-        public void TestCalcularVelocidadeTangencial()
+        public void CalcularVelocidadeTangencial()
         {
             // Arrange
             double raio = 5.0;
@@ -20,7 +20,7 @@ namespace UnitTestProject
         }
 
         [Test]
-        public void TestCalcularAceleracaoCentripeta()
+        public void CalcularAceleracaoCentripeta()
         {
             // Arrange
             double raio = 5.0;

@@ -5,7 +5,7 @@ namespace UnitTestProject
     public class TestesProgram
     {
         [Test]
-        public void TestAnguloCalculadoCorretamente()
+        public void AnguloCalculadoCorretamente()
         {
             // Arrange
             const double gravidade = 9.81;
@@ -21,7 +21,7 @@ namespace UnitTestProject
         }
 
         [Test]
-        public void TestVelocidadeCalculadaCorretamente()
+        public void VelocidadeCalculadaCorretamente()
         {
             // Arrange
             const double gravidade = 9.81;
